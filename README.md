@@ -23,7 +23,7 @@ opponent does the same. Then the choices are compared to determine the winner.
 * Scissors beats paper, loses to rock and ties with scissors.
 
 To play the game, run `node game.js` in your terminal. Follow the
-intructions on the screen and input one letter commands and press enter to
+instructions on the screen and input one letter commands and press enter to
 commit the command.
 
 Play the terminal game a few times to see how it works and how the game state
